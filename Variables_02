@@ -1,0 +1,8 @@
+ // Variables.....
+ 
+ const accountID=12345; // constant variable  
+ let EmailID= "ashutosh12@gmail.com"; // use multiple times
+  let EmailPassword = "Ashu123";
+   let City="Ranchi";
+ // for output
+   console.table([accountID,EmailID,EmailPassword,City]) // use for multiple value printing
