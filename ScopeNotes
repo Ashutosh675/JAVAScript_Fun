@@ -1,0 +1,16 @@
+// //Scope determines the accessibility (visibility) of variables.
+
+// Global Scope:
+// Variables declared outside of any function or block have global scope.
+// Global variables are accessible from any part of your JavaScript code, including functions and blocks.
+// They have a lifetime that extends throughout the entire execution of the program.
+ 
+// global scope can be accssed with  let,and const also?
+
+
+//Function scope (local scope )...........
+
+// Variables declared inside a function have local scope.
+// Local variables are only accessible within the function in which they are declared.
+// They have a limited lifetime that extends from the moment the function is called until it completes execution.
+// Example of a local variable:
